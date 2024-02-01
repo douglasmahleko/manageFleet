@@ -1,0 +1,107 @@
+*{
+  /* background-color: #008000; */
+}
+
+.home {
+  height: 50vh;
+  width: 50vh;
+  background-color: bisque;
+  align-items: center;
+  padding-left: 20vh;
+  padding-top: 20vh;
+  margin-left: 60vh;
+  margin-top: 20vh;
+}
+.home label{
+  font-family: 'Courier New', Courier, monospace;
+
+}
+.home input{
+  border: none;
+  height: 50px;
+  margin: 2px;
+  padding: 5px;
+  border-radius: 10px;
+  width: 100px;
+  border-color: aquamarine;
+  border-width: 2px;
+}
+.home button{
+  background-color: blueviolet;
+  height: 50px;
+  width: 60px;
+  border: none;
+  border-radius: 10px;
+  border-bottom: 2px solid;
+  text-align: center;
+}
+.navBar{
+  background-color: cornflowerblue;
+  height:10vh;
+  padding: 10px;
+  color: brown;
+}
+.navBar ul{
+  display: inline-block;
+  float: right;
+ 
+}
+.navBar a{
+  text-decoration: none;
+}
+.content form{
+  height: 90vh ;
+  padding: 20px;
+  margin-left: 70vh;
+}
+.content fieldset{
+  height: 110vh;
+  width: 30vh;
+  background-color: antiquewhite;
+  padding-left: 20px;
+  padding-top: 20px;
+  border-radius: 5px;
+}
+p{
+  padding-left: 80vh;
+  font-size: larger;
+  margin-bottom: -15px;
+  border-bottom: 1px solid #FFC0CB;
+  border-top: 1px solid #FFC0CB;
+  border-left-width: 20px;
+  border-right-width: 20px;
+  
+  
+}
+.content input{
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  border-bottom: 3px solid;
+  padding: 5px;
+  padding-right: 10px;
+  margin-left: 3px;
+  /* background-color: white; */
+}
+
+.content button{
+  background-color: blueviolet;
+  height: 50px;
+  width: 60px;
+  border: none;
+  border-radius: 10px;
+  border-bottom: 2px solid;
+  text-align: center;
+  margin: 6px;
+}
+.content label{
+  padding: 4px;
+  margin: 2px;
+  /* background-color: white; */
+}
+.content table{
+  border-collapse: collapse;
+  margin: 30px;
+  width: 180vh;
+}
+ 
